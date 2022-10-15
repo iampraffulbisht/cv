@@ -1,0 +1,31 @@
+body {
+  background-color: #F9E9D0;
+
+}
+h1{
+  font-size: 30px;
+
+}
+
+h2{
+  font-weight: bold;
+
+}
+h3{
+  font-weight: bold;
+
+
+}
+
+tr{
+  font-weight: bold;
+
+}
+hr{
+
+border : dotted #EAF6F6;
+border-color: grey;
+width: 4%;
+margin: 40px auto;
+border-bottom: none;
+}
